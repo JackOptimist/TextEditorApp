@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Text Editor App</string>
+    <string name="save">Save</string>
+    <string name="save_as">Save as</string>
+    <string name="exit">Exit</string>
+    <string name="choose_color">Choose color</string>
+    <string name="allignment">Allignment</string>
+    <string name="alignment">Alignment</string>
+    <string name="color">Color</string>
+    <string name="style">Style</string>
+    <string name="size">Size</string>
+    <string name="cut">Cut</string>
+    <string name="copy">Copy</string>
+    <string name="paste">Paste</string>
+    <string name="open">Open</string>
+</resources>
